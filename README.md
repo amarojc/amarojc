@@ -1,5 +1,5 @@
 ### Olá, seja bem vindo(a)! 👋🏻
-Desde já agradeço a sua atenção e fico feliz por está lendo o meu perfil e conhecendo um pouco sobre mim.
+
 <br><br>
 
 ## 👨🏻‍💼 Sobre:
