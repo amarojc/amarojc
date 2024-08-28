@@ -7,8 +7,7 @@ Desenvolvedor Full Stack<br><br>
 Bacharel em Sistema de Informação pela Faculdade de Informática Lemos de Castro. <br><br>
 Iniciei minha jornada de desenvolvedor na COTI Informática - Escola de Nerds, onde fui aluno e tive a oportunidade de fazer parte dessa grande equipe durante o ano de  2015, atuando como instrutor nas aulas de  Lógica de Programação, Java OO, Java Web e outros conteúdos, tirando dúvidas, orientando e acompanhando os alunos em seus projetos, dentro e fora da sala de aula.<br><br>
 
-Criador da plataforma [**faro MUSICAL**](https://faromusical.com)<br><br>
-No momento estou me atualizando no curso - Bootcamp Full Stack - Spring boot e React, da Devsuperior. <br><br> 🚀
+No momento estou me atualizando no curso - Bootcamp React, da Devsuperior. <br><br> 🚀
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amarojc#0896) 
