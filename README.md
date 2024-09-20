@@ -7,7 +7,21 @@ Desenvolvedor Full Stack<br><br>
 Bacharel em Sistema de Informação pela Faculdade de Informática Lemos de Castro. <br><br>
 Iniciei minha jornada de desenvolvedor na COTI Informática - Escola de Nerds, onde fui aluno e tive a oportunidade de fazer parte dessa grande equipe durante o ano de  2015, atuando como instrutor nas aulas de  Lógica de Programação, Java OO, Java Web e outros conteúdos, tirando dúvidas, orientando e acompanhando os alunos em seus projetos, dentro e fora da sala de aula.<br><br>
 
-No momento estou me atualizando no curso - Bootcamp React, da Devsuperior. <br><br> 🚀
+Atuei na construção e melhorias de projetos utilizando diversas tecnologias, tais como: 
+- Java 6, 7, 8 e 11
+- API's REST utilizando: Spring Boot, Spring Data JPA, Spring Security, JWT, Maven, Validation, padrão DTO, Erros customizados e Flyway Db.
+- Sistemas WEB utilizando: JSF, Primefaces, Servlet, Hibernate, JPA, Generics, autenticação com hash md5 e processamento paralelo utilizando Threads
+- Servidor de aplicação Jboss e Apache Tomcat
+- Maven no Gerenciamento de dependências
+- Criação e Manutenção de Relatórios utilizando jasperReport e mpdf60.
+- Integração e entrega contínua (CI/CD)
+- Controles de Versão GIT.
+- Frameworks Bootstrap e Angular
+- Angular Material
+- Banco de Dados: MySQL, PostGress, Oracle e Sybase
+- PHP, Jquery, Ajax, JavaScript e google maps - geolocation.
+
+No momento estou me atualizando e buscando mais conhecimentos nos cursos de JavaScript, TypeScript e Angular na  [![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)](https://cursos.alura.com.br/user/inf-amaro-jc).  🚀 <br><br>
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amarojc#0896) 
