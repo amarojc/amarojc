@@ -21,7 +21,7 @@ Atuei na construção e melhorias de projetos utilizando diversas tecnologias, t
 - Banco de Dados: MySQL, PostGress, Oracle e Sybase
 - PHP, Jquery, Ajax, JavaScript e google maps - geolocation.
 
-No momento estou me atualizando e buscando mais conhecimentos nos cursos de JavaScript, TypeScript e Angular na  [![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)](https://cursos.alura.com.br/user/inf-amaro-jc).  🚀 <br><br>
+No momento estou me atualizando e buscando mais conhecimentos nos cursos da  [![Alura](https://cursos.alura.com.br/assets/images/logos/logo-alura.svg)](https://cursos.alura.com.br/user/inf-amaro-jc).  🚀 <br><br>
 
 ## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amarojc#0896) 
