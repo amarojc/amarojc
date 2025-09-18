@@ -1,11 +1,17 @@
 ### Olá, seja bem vindo(a)!
 
-<br><br>
+<br>
 
-## 👨🏻‍💼 Sobre:
-Desenvolvedor Full Stack<br><br>
-Bacharel em Sistema de Informação pela Faculdade de Informática Lemos de Castro. <br><br>
-Iniciei minha jornada de desenvolvedor na COTI Informática - Escola de Nerds, onde fui aluno e tive a oportunidade de fazer parte dessa grande equipe durante o ano de  2015, atuando como instrutor nas aulas de  Lógica de Programação, Java OO, Java Web e outros conteúdos, tirando dúvidas, orientando e acompanhando os alunos em seus projetos, dentro e fora da sala de aula.<br><br>
+### 💻 Desenvolvedor Full Stack
+"Paixão por desenvolver, coragem para inovar e vontade de aprender sempre."
+
+Minha jornada começou lá em **2015**, na **COTI Informática - Escola de Nerds**, onde deixei de ser apenas aluno para também compartilhar conhecimento como instrutor de **Lógica de Programação, Java OO e Java Web**.  
+Foi ali que descobri a paixão por ensinar, aprender e transformar ideias em código.  
+
+De lá pra cá, tive o privilégio de trabalhar ao lado de pessoas incríveis em empresas como **JSADeveloper (Atual Onemun's) e Golden Cross** — cada projeto, cada desafio, cada linha de código me trouxe um novo aprendizado.  
+
+Hoje, sigo evoluindo como **DBServer**, mergulhado em projetos que fazem a diferença e aprendendo todos os dias com a grande equipe da **PROCERGS**.  
+
 
 Atuei na construção e melhorias de projetos utilizando diversas tecnologias, tais como: 
 - Java 6, 7, 8 e 11
