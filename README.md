@@ -1,7 +1,5 @@
 ### Olá, seja bem vindo(a)!
 
-<br>
-
 ### 💻 Desenvolvedor Full Stack
 "Paixão por desenvolver, coragem para inovar e vontade de aprender sempre."
 
